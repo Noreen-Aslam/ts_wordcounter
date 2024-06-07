@@ -1,4 +1,5 @@
 📊 TypeScript Word Counter 📖
+
 Welcome to the TypeScript Word Counter repository! This project provides a simple yet powerful tool for counting words in text files, making it perfect for text analysis, data processing, and more.
 
 Features 🌟
